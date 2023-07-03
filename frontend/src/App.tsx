@@ -1,5 +1,4 @@
 import '@patternfly/react-core/dist/styles/base.css'
-import './fonts.css'
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
 import AddToForm from './Components/AddToForm'
